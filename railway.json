@@ -6,7 +6,6 @@
   },
   "deploy": {
     "runtime": "V2",
-    "buildCommand": "",
     "startCommand": "java -jar build/libs/dslist-0.0.1-SNAPSHOT.jar"
     "sleepApplication": false
   }
